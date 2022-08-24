@@ -1,0 +1,30 @@
+#labels {
+    color: brown;
+    font-size: 60px;
+  }
+  .button {
+    margin: 5px;
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    width: 80px;
+  }
+  .submitbutton {
+    background-color: green;
+    color: white;
+  }
+  .resetbutton {
+    background-color: red;
+    color: white;
+  }
+  
+  div.postion {
+    position: relative;
+    left: 720px;
+    top: 50px;
+  }
+  
+  .header {
+    display: flex;
+  }
+  
